@@ -18,4 +18,4 @@
 - Homework 1 to 3 (95%)
 - Final Project
 
-- **Final Grade**:
+**Final Grade**:
