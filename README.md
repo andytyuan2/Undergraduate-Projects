@@ -7,7 +7,7 @@
 
 **Final Grade 88%**
 
-## Statistics 3860: Generalized Linear Models
+## Statistics 3860/9860: Generalized Linear Models (Cross-listed graduate level course)
 
 - Homework 1 to 3
 
