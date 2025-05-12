@@ -18,4 +18,4 @@
 - Homework 1 to 3
 - Final Project
 
-**Final Grade: 88%**
+**Final Grade: 91%**
