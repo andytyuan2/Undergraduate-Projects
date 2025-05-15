@@ -3,7 +3,7 @@
 ##  Data Science 3000/9000: Introduction to Machine Learning (Cross-listed graduate level course)
 
 - Homework 1 to 9
-- Final Project
+- Final Project (Code and written portion)
 
 **Final Grade: 88%**
 
